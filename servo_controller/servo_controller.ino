@@ -12,7 +12,7 @@ void setup() {
 void loop() {
   int potValue = analogRead(A0);
   
-  int angle = map(potValue, 0, 1023, 0, 180);
+  int angle = map(potValue, 0, 1023, 20, 160);
 
   if (abs(angle - previousAngle) > 2) {
     digitalWrite(12, HIGH);
