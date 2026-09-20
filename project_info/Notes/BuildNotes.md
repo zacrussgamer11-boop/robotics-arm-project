@@ -1,7 +1,7 @@
-# Build Notes - All .STL files can be found in the CAD folder
+# Build Notes - All .STL files can be found in the Hardware folder
 
 ## Version 1
-    Plan - One servo moving a single arm forward and backwards being controlled by a thumbstick
+    Plan - One servo moving a single arm forward and backwards being controlled by a remote control using a ir receiver
 
     ## Servo Horn
         - Screw hole diameter: 1.1mm
