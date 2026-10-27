@@ -16,6 +16,7 @@ Arduino UNO R4 WiFi robotics learning project.
 - Controlled a servo with a potentiometer
 - Added an LED movement indicator
 - Added movement tolerance/deadband
+- Used a tv remote to move the servo backwards and forwards using IR
 
 ## Current hardware
 
@@ -29,4 +30,4 @@ Arduino UNO R4 WiFi robotics learning project.
 
 ## Current phase
 
-Phase 1 - Single joint servo control
+Phase 2 - double joint servo control
